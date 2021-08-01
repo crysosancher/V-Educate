@@ -148,6 +148,11 @@ html{
     font-family: 'Oxygen', sans-serif;
 }.left{
 	flex-direction: row-reverse;
+	
+}
+.round-div{
+	border: 1px solid gray;
+    border-radius: 59px;
 }
 .paras{
 	padding: 0px 68px;
@@ -157,6 +162,11 @@ html{
     border: 2px solid black;
     border-radius: 51px;
     margin-top: 46px;
+}
+.get{
+	position: relative;
+	top: -18px;
+	right: -16px;
 }
 .sectionSubTag{
 	font-family: 'Karla', sans-serif;
